@@ -1,0 +1,94 @@
+{
+    "Lab Section": 13,
+    "Last Modified": 2018-09-12,
+    "OU ID": 113394119,
+    "OU EMAIL": reecereinke@ou.edu,
+    "Tasks": [
+        {
+            "Description": "Implement design based on UML.",
+            "Estimated Time (Minutes)": 15,
+            "Actual Time (Minutes)": 25,
+        },
+        {
+            "Description": "Actively comment as I code.",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 5,
+        },
+        {
+            "Description": "MesonetFrame class.",
+            "Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 5,
+        },
+        {
+        	"Description": "Generate getters.",
+        	"Estimated Time (Minutes)": 20,
+            "Actual Time (Minutes)": 25,
+        },
+        {
+        	"Description": "Create ParameterPanel class.",
+        	"Estimated Time (Minutes)": 5,
+            "Actual Time (Minutes)": 5,
+        },
+        {
+        	"Description": "Fill in MesonetFrame class.",
+        	"Estimated Time (Minutes)": 50,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in ParameterPanel class.",
+        	"Estimated Time (Minutes)": 30,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in StatsPanel class.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in TablePanel class.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in Mapdata New Method".",
+        	"Estimated Time (Minutes)": 42,
+            "Actual Time (Minutes)": 30,
+        },
+        {
+        	"Description": "Fill in Mesonet Methods.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in New Driver Class.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 44,
+        },
+        {
+        	"Description": "Fill in FileMenu Bar method.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in Bottom Bar Class.",
+        	"Estimated Time (Minutes)": 51,
+            "Actual Time (Minutes)": 40,
+        },
+        {
+        	"Description": "Fill in JFRAME Class.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 44,
+        },
+        {
+        	"Description": "Fill in TODO.",
+        	"Estimated Time (Minutes)": 45,
+            "Actual Time (Minutes)": 45,
+        },
+        {
+        	"Description": "Create Java Doc.",
+        	"Estimated Time (Minutes)": 4,
+            "Actual Time (Minutes)": 2,
+        },  
+   ]
+}     
+        
